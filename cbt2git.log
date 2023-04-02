@@ -1,0 +1,7 @@
+2023-04-02 22:46:38.229873 - Initialized conversion of CBT224
+2023-04-02 22:46:38.260160 - Received CBT.V504.FILE224.PDS from FILE224.XMI 
+2023-04-02 22:46:38.263014 - Found $$$#DATE.txt (text/plain) in CBT.V504.FILE224.PDS, moved to PDS/$$$#DATE
+2023-04-02 22:46:38.264125 - Found $SAMPLES.txt (text/plain) in CBT.V504.FILE224.PDS, moved to PDS/$SAMPLES
+2023-04-02 22:46:38.265522 - Found @FILE224.txt (text/plain) in CBT.V504.FILE224.PDS, moved to PDS/@FILE224
+2023-04-02 22:46:38.265536 - Found ITMSJOB.bin containing application/octet-stream, moved to PDS/ITMSJOB
+2023-04-02 22:46:38.266677 - Found ITMSPRT.bin containing application/octet-stream, moved to PDS/ITMSPRT
