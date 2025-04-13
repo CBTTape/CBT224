@@ -1,6 +1,6 @@
-2025-04-13 14:52:07.083657 - Received CBT.V508.FILE224.PDS from FILE224.XMI 
-2025-04-13 14:52:07.084332 - Found $$$#DATE.txt (text/plain) in CBT.V508.FILE224.PDS, moved to PDS/$$$#DATE
-2025-04-13 14:52:07.084405 - Found $SAMPLES.txt (text/plain) in CBT.V508.FILE224.PDS, moved to PDS/$SAMPLES
-2025-04-13 14:52:07.084467 - Found @FILE224.txt (text/plain) in CBT.V508.FILE224.PDS, moved to PDS/@FILE224
-2025-04-13 14:52:07.084533 - Found ITMSJOB.bin (application/octet-stream) in CBT.V508.FILE224.PDS, moved to PDS/ITMSJOB
-2025-04-13 14:52:07.084653 - Found ITMSPRT.bin (application/octet-stream) in CBT.V508.FILE224.PDS, moved to PDS/ITMSPRT
+2025-04-13 17:40:33.282343 - Received CBT.V508.FILE224.PDS from FILE224.XMI 
+2025-04-13 17:40:33.282967 - Found $$$#DATE.txt (text/plain) in CBT.V508.FILE224.PDS, moved to PDS/$$$#DATE
+2025-04-13 17:40:33.283023 - Found $SAMPLES.txt (text/plain) in CBT.V508.FILE224.PDS, moved to PDS/$SAMPLES
+2025-04-13 17:40:33.283062 - Found @FILE224.txt (text/plain) in CBT.V508.FILE224.PDS, moved to PDS/@FILE224
+2025-04-13 17:40:33.283107 - Found ITMSJOB.bin (application/octet-stream) in CBT.V508.FILE224.PDS, moved to PDS/ITMSJOB
+2025-04-13 17:40:33.283199 - Found ITMSPRT.bin (application/octet-stream) in CBT.V508.FILE224.PDS, moved to PDS/ITMSPRT
